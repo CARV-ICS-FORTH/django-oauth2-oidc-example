@@ -1,0 +1,3 @@
+django
+social-auth-app-django
+python-jose[cryptography]

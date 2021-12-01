@@ -1,0 +1,4 @@
+django
+djangorestframework
+django-oauth-toolkit
+django-cors-middleware
